@@ -13,6 +13,11 @@ This repository is a fork of [Robert Gembe's](https://www.kaggle.com/code/robert
 ## Overview
 This project uses Monte Carlo simulation to compare the impact of traditional and smart traffic lights on traffic flow. By simulating different traffic scenarios, we can assess the performance of each system and analyze their effectiveness.
 
+## Install Dependences
+```bash
+pip install -r requirements.txt
+```
+
 ## How to Run
 ```bash
 python main.py
