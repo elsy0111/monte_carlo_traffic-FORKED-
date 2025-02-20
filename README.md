@@ -15,7 +15,7 @@ This project uses Monte Carlo simulation to compare the impact of traditional an
 
 ## How to Run
 ```bash
-python simulate.py
+python main.py
 ```
 
 ## References
